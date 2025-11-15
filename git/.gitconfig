@@ -1,0 +1,15 @@
+[user]
+	name = schererleander
+	email = leander@schererleander.de
+	signingkey = 5CAFE00A65A3F3B828F937DBA3502B180BC1D41A
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	ci = commit
+[core]
+	excludesfile = /Users/schererleander/.gitignore
+[pull]
+	rebase = true
+[commit]
+	gpgsign = true
